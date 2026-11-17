@@ -1,8 +1,8 @@
 
     .container{
-    background-color:#ff2222;
-    width:2502px;
-    height:545px;
+    background-color:#ff004a;
+    width:1000px;
+    height:746px;
     overflow: hidden;
     margin:auto;
     position:relative;
@@ -12,23 +12,41 @@
      background color:#58b55d;
     width:550px;
     position: absolute;
-    left:300px;
+    left:55px;
     top: 144px;
 }
 .images{
     position:absolute;
-    left:461px;
-    top: 158px;
+    left:307px;
+    top: 150px;
 }
 .secondparas{
     position:absolute;
     top:570px;
-    left:468px;
+    left:420px;
     
 }
 .thirdparas{
     position:absolute;
-    left:490px;
+    left:533px;
+    top:700px;
+    
+}
+.imgs{
+    position:absolute;
+    left:950px;
+    top: 150px;
+}
+.firstparass{
+     background color:#58b55d;
+    width:550px;
+    position: absolute;
+    left:696px;
+    top: 144px;
+}
+.thirdparass{
+    position:absolute;
+    left:1014px;
     top:700px;
     
 }
