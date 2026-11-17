@@ -1,8 +1,8 @@
 
     .container{
     background-color:#ff2222;
-    width:1000px;
-    height:559px;
+    width:1246px;
+    height:545px;
     overflow: hidden;
     margin:auto;
     position:relative;
@@ -12,18 +12,18 @@
      background color:#58b55d;
     width:550px;
     position: absolute;
-    left:150px;
+    left:300px;
     top: 144px;
 }
 .images{
     position:absolute;
-    left:350px;
+    left:461px;
     top: 158px;
 }
 .secondparas{
     position:absolute;
-    top:580px;
-    left:400px;
+    top:570px;
+    left:468px;
     
 }
 .thirdparas{
